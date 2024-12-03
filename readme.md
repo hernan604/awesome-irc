@@ -54,6 +54,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
 - [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
+- [BitchX](https://bitchx.sourceforge.net/) - On several occasions, BitchX has been noted to be a popular IRC client for Unix-like systems. [screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Unix` `Linux` `FreeBSD` `OpenBSD` `NetBSD` `Solaris` `Windows` `OS X`
 
 <!--lint ignore double-link-->
 *More? Clients that include bouncers are found [below](#bouncers).*
