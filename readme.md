@@ -78,6 +78,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 - [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
 - [sms-webhook](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
+- [psybnc](https://psybnc.org/) - psyBNC is an easy-to-use, multi-user, permanent IRC-Bouncer with many features. ([source](https://psybnc.org/download.html)) `Linux` `FreeBSD` `SunOs` `Solaris`
 
 ## Daemons
 
